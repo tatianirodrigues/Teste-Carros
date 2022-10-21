@@ -61,7 +61,7 @@
 
 ---
 ## :gear: Abrir e rodar o projeto <a	name="abrir-e-rodar-o-projeto"></a>
-Para abrir e rodar este projeto no seu desktop basta seguir os alguns passos simples. Mas antes é nessario que se tenha instalado o [Git](https://git-scm.com/downloads), [Node.js](https://nodejs.org/), [VSCode](https://code.visualstudio.com/download), [MYSQL](https://www.mysql.com/downloads/Building) e o [Eclipse](https://www.eclipse.org/downloads/). 
+Para abrir e rodar este projeto no seu desktop basta seguir os alguns passos simples. Mas antes é necessário que se tenha instalado o [Git](https://git-scm.com/downloads), [Node.js](https://nodejs.org/), [VSCode](https://code.visualstudio.com/download), [MYSQL](https://www.mysql.com/downloads/Building) e o [Eclipse](https://www.eclipse.org/downloads/). 
 
 **Agora basta:**
 1. Clonar este repositorio.
