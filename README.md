@@ -42,17 +42,17 @@ Para abrir e rodar este projeto no seu desktop basta seguir os alguns passos sim
 **Agora basta:**
 1. Clonar este repositorio.
 
- `git clone https://github.com/ProjetoEntra021/ProjetoFinal.git`
+  `git clone https://github.com/ProjetoEntra021/ProjetoFinal.git`
  
 2. Abrir o projeto no eclipe e rodar como uma aplicação Java.
 
 3. No VSCode, instalar as dependencias.
 
- `npm install`
+  `npm install`
 
 4. Rodar no servidor local
 
- `npm run start`
+  `npm run start`
  
  
  Agora o AlôCar deve estar rodando e pode ser acessado pelo navegador com a url [http://localhost:4020/](http://localhost:4020/)
