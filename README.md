@@ -22,6 +22,7 @@
 
 <img width="844" alt="diagrama de classes" src="https://user-images.githubusercontent.com/102046212/197194108-7e0aa9d2-159a-4225-b503-614ef1f4057d.png">
 ---
+
 ## Funcionalidades
 
 ![capAlo](https://user-images.githubusercontent.com/102046212/197202387-10463293-c1ca-4da8-8f3c-070cb847b5da.gif)
