@@ -35,28 +35,15 @@
 ## Ferramentas e tecnologias utilizadas
 
 **Backend:** 
-Ultilizamos a  linguagem de programação Java <img align="center" alt="kaka-JAVA" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>  com o framework Spring <img align=center alt=kaka-vscode height=25 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" /> e  MySQL <img align=center alt=kaka-vscode height=25 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" />como banco de dados.
+- linguagem de programação: Java <img align="center" alt="kaka-JAVA" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>  
+- Framework: Spring <img align=center alt=kaka-vscode height=25 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" /> 
+- IDE: Eclipse   <img align="center" alt="html" height="25" width="40" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg"> 
+- Banco de Dados: MySQL <img align=center alt=kaka-vscode height=25 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" />como banco de dados.
 
-No desenvolvimento do frontend utilizamos o framework Angular.
-
-
->> * ##### <img align="center" alt="kaka-JAVA" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> Java
->> * ##### <img align="center" alt="kaka-js" height=25 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"/> JavaScript
->> * ##### <img align="center" alt="kaka-ts" height=25 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"/> TypeScript
->> * ##### <img align="center" alt="kaka-CSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> CSS
->> * ##### <img align="center" alt="html" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"> HTML
-> #
-> #### Tecnologias:
->> * ##### Spring Boot
->> * ##### <img align="center" alt="kaka-Angular" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" /> Angular
->> * ##### <img align=center alt=kaka-vscode height=25 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" /> MySQL
-> #
-> #### Ferramentas:
->> * ##### <img align="center" alt="html" height="25" width="40" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg"> Eclipse IDE
->> * ##### <img align=center alt=kaka-vscode height=25 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" /> Visual Studio Code
->> * ##### <img align="center" alt="html" height="25" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg"> Postman
->> * ##### <img align=center alt=kaka-vscode height=25 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original.svg" /> Google Cloud
-> #
+**FrontEnd:**
+- linguagem de programação: TypeScript <img align="center" alt="kaka-ts" height=25 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"/> 
+- FrameWork: Angular <img align="center" alt="kaka-Angular" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" /> 
+- IDE: VSCode <img align=center alt=kaka-vscode height=25 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" />
 
 
 ## Abrir e rodar o projeto
