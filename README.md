@@ -2,7 +2,7 @@
 
 ### Tópicos 
 
-[-Sobre](#sobre)
+[- Sobre](#sobre)
 
 -[Diagrama de Classes](#diagrama-de-classes)
 
