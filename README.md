@@ -14,6 +14,8 @@
 
 [Desenvolvedores](#desenvolvedores)
 
+---
+
 <h2 align="left">Sobre</h2>
 
 
