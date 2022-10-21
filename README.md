@@ -8,7 +8,7 @@
 
 [Funcionalidades](#funcionalidades)
 
-[Ferramentas e tecnologias utilizadas](#ferramentas-utilizadas)
+[Ferramentas e tecnologias utilizadas](#ferramentas-e-tecnologias-utilizadas)
 
 [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
