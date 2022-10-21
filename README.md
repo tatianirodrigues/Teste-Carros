@@ -2,7 +2,7 @@
 
 ### Tópicos 
 
-[Sobre do projeto](#descrição-do-projeto)
+[Sobre](#sobre)
 
 [Diagrama de Classes](#diagrama-de-classes)
 
@@ -14,6 +14,6 @@
 
 [Desenvolvedores](#desenvolvedores)
 
-<h2 align="left">Sobre o projeto</h2>
+<h2 align="left">Sobre</h2>
 
 
