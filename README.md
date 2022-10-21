@@ -29,7 +29,8 @@
 ## 💻 Funcionalidades
 
  <p align="justify"> As locadoras cadatrasdas poderão acessar a ferramenta, logando em nosso portal com seu usuário e senha.</p>
- ![alocarLog](https://user-images.githubusercontent.com/102046212/197243517-61c42dcb-582e-4e16-9528-e9fb5a40b4c2.gif)
+ 
+
 
  <p align="justify"> Dentro do programa, será gerênciar a sua frota de veículos. Tendo uma visão geral de todos os seus carros cadastrados, podendo editar os veículos e adicionar novos. Além disso terá acesso ao resultado financeiro que cada um está gerando, através do gerenciamento de receitas e despesas referentes a cada veiculo.
 	![carrosalocar](https://user-images.githubusercontent.com/102046212/197245309-5278cb14-982d-4839-8a30-ebc3bc64183a.gif)
@@ -46,7 +47,7 @@ uma dashboard com uma visão geral das operações da locadora, como:
 
 ![capAlo](https://user-images.githubusercontent.com/102046212/197202387-10463293-c1ca-4da8-8f3c-070cb847b5da.gif)
 
-
+ ![alocarLog](https://user-images.githubusercontent.com/102046212/197243517-61c42dcb-582e-4e16-9528-e9fb5a40b4c2.gif)
 
 ---
 ## 🛠️ Ferramentas e tecnologias utilizadas
