@@ -36,11 +36,11 @@
 
 ![carrosalocar](https://user-images.githubusercontent.com/102046212/197245309-5278cb14-982d-4839-8a30-ebc3bc64183a.gif)
 
- <p align="justify"> A plataforma também permite o cadatro e listagem de seus clientes, e partir deles realizar reservas de veículos</p>
+ <p align="justify"> A plataforma também permite o cadatro e listagem de seus clientes, e partir deles realizar reservas de veículos.</p>
  
 ![capAlo](https://user-images.githubusercontent.com/102046212/197202387-10463293-c1ca-4da8-8f3c-070cb847b5da.gif)
  
- <p align="justify">Depois de reservado, no momento que o carro for retirado da locadora, será efeituada no sistema a locação. Para motoristas de aplicativo que locam o carro por um longo período a parcela do aluguel do veículo será semanal, o pagamento da parcela poderá ser monitorado pelo sistema</p>
+ <p align="justify">Depois de reservado, no momento que o carro for retirado da locadora, será efeituada no sistema a locação. Para motoristas de aplicativo que locam o carro por um longo período a parcela do aluguel do veículo será semanal, o pagamento da parcela poderá ser monitorado pelo sistema.</p>
  
 ![locacao](https://user-images.githubusercontent.com/102046212/197247637-f7b75cdc-8c95-4709-9421-0defec4e050e.gif)
 
