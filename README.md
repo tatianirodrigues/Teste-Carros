@@ -70,6 +70,7 @@ Para abrir e rodar este projeto no seu desktop basta seguir os alguns passos sim
 
 ---
 ## Desenvolvedores
-
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Tatiani Pereira Rodrigues</sub>](https://github.com/tatianirogrigues) |  [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Mateus Bruscato</sub>](https://github.com/MateusBruscato) ||  [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Pablo Alexandre Pamplona</sub>](https://github.com/pablompamplona) |
+| :---: | :---: | :---: 
 
 
