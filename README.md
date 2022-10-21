@@ -26,7 +26,7 @@
 
 
 ---
-## 💻 Funcionalidades
+## 💻 Funcionalidades <a	name="funcionalidades"></a>
 
  <p align="justify"> As locadoras cadatrasdas poderão acessar a ferramenta, logando em nosso portal com seu usuário e senha.</p>
  
@@ -45,7 +45,7 @@
 ![locacao](https://user-images.githubusercontent.com/102046212/197247637-f7b75cdc-8c95-4709-9421-0defec4e050e.gif)
 
 ---
-## 🛠️ Ferramentas e tecnologias utilizadas
+## 🛠️ Ferramentas e tecnologias utilizadas <a	name="ferramentas-e-tecnologias-utilizadas"></a>
 
 **Backend:** 
 - linguagem de programação: Java <img align="center" alt="kaka-JAVA" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>  
@@ -60,7 +60,7 @@
 - IDE: VSCode <img align=center alt=kaka-vscode height=25 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" />
 
 ---
-## :gear: Abrir e rodar o projeto
+## :gear: Abrir e rodar o projeto <a	name="abrir-e-rodar-o-projeto"></a>
 Para abrir e rodar este projeto no seu desktop basta seguir os alguns passos simples. Mas antes é nessario que se tenha instalado o [Git](https://git-scm.com/downloads), [Node.js](https://nodejs.org/), [VSCode](https://code.visualstudio.com/download), [MYSQL](https://www.mysql.com/downloads/Building) e o [Eclipse](https://www.eclipse.org/downloads/). 
 
 **Agora basta:**
@@ -82,9 +82,7 @@ Para abrir e rodar este projeto no seu desktop basta seguir os alguns passos sim
  Agora o AlôCar deve estar rodando e pode ser acessado pelo navegador com a url [http://localhost:4020/](http://localhost:4020/)
 
 ---
-## 👩‍💻 Desenvolvedores
-
-
+## 👩‍💻 Desenvolvedores <a	name="desenvolvedores"></a>
 
 | [<img src="https://avatars.githubusercontent.com/u/101154857?v=4" width=115><br><sub>Mateus Bruscato</sub>](https://github.com/MateusBruscato) |  [<img src="https://avatars.githubusercontent.com/u/104950879?v=4" width=115><br><sub>Pablo Pamplona</sub>](https://github.com/pablompamplona) |  [<img src="https://avatars.githubusercontent.com/u/102046212?s=400&u=f4ec72ee978d3338925dbb971c7038eef33de5d8&v=4" width=115><br><sub>Tatiani Rodrigues</sub>](https://github.com/tatianirodrigues) |  [<img src="https://avatars.githubusercontent.com/u/98987267?v=4" width=115><br><sub>Victor Wolleck</sub>](https://github.com/VictorWolleck) |
 | :---: | :---: | :---: | :---: |
