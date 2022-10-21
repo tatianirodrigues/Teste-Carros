@@ -72,5 +72,5 @@ Para abrir e rodar este projeto no seu desktop basta seguir os alguns passos sim
 ## 👩‍💻 Desenvolvedores
 
 
-| [<img src="https://avatars.githubusercontent.com/u/101154857?v=4" width=115><br><sub>Mateus Bruscato</sub>](https://github.com/MateusBruscato) |  [<img src="https://avatars.githubusercontent.com/u/104950879?v=4" width=115><br><sub>Pablo Alexandre M Pamplona</sub>](https://github.com/pablompamplona) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| [<img src="https://avatars.githubusercontent.com/u/101154857?v=4" width=115><br><sub>Mateus Bruscato</sub>](https://github.com/MateusBruscato) |  [<img src="https://avatars.githubusercontent.com/u/104950879?v=4" width=115><br><sub>Pablo Pamplona</sub>](https://github.com/pablompamplona) |  [<img src="https://avatars.githubusercontent.com/u/102046212?s=400&u=f4ec72ee978d3338925dbb971c7038eef33de5d8&v=4" width=115><br><sub>Tatiani Rodrigues</sub>](https://github.com/tatianirodrigues) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
 | :---: | :---: | :---: | :---: |
