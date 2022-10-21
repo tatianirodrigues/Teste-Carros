@@ -1,4 +1,4 @@
-<h1 align="left"> O alôCar, bip, bip</h1> 
+🚙 <h1 align="left"> O alôCar, bip, bip</h1> 
 
 ### Tópicos 
 
@@ -23,4 +23,4 @@
 <img width="844" alt="diagrama de classes" src="https://user-images.githubusercontent.com/102046212/197194108-7e0aa9d2-159a-4225-b503-614ef1f4057d.png">
 
 ## Funcionalidades
-![gifalo](https://user-images.githubusercontent.com/102046212/197198523-80b7ee30-20e5-4ba6-8f6c-e5fe073d94e5.gif)
+![capAlo](https://user-images.githubusercontent.com/102046212/197202387-10463293-c1ca-4da8-8f3c-070cb847b5da.gif)
