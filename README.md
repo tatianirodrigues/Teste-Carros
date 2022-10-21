@@ -6,7 +6,7 @@
 
 [Diagrama de Classes](#diagrama-de-classes)
 
-[Diagrama de Classes](#diagrama-de-classes)
+[Diagrama Lógico BD](#diagrama-de-bd)
 
 [Funcionalidades](#funcionalidades)
 
