@@ -53,7 +53,7 @@ Para abrir e rodar este projeto no seu desktop basta seguir os alguns passos sim
 **Agora basta:**
 1. Clonar este repositorio.
 
-  	¿ `git clone https://github.com/ProjetoEntra021/ProjetoFinal.git`
+<p>  `git clone https://github.com/ProjetoEntra021/ProjetoFinal.git` </p>
  
 2. Abrir o projeto no eclipe e rodar como uma aplicação Java.
 
