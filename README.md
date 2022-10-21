@@ -21,3 +21,6 @@
 ## Diagrama de classes
 
 <img width="844" alt="diagrama de classes" src="https://user-images.githubusercontent.com/102046212/197194108-7e0aa9d2-159a-4225-b503-614ef1f4057d.png">
+
+## Funcionalidades
+![gifalo](https://user-images.githubusercontent.com/102046212/197198523-80b7ee30-20e5-4ba6-8f6c-e5fe073d94e5.gif)
