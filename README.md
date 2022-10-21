@@ -2,7 +2,9 @@
 
 ### Tópicos 
 
-[Descrição do projeto](#descrição-do-projeto)
+[Sobre do projeto](#descrição-do-projeto)
+
+[Diagrama de Classes](#diagrama-de-classes)
 
 [Funcionalidades](#funcionalidades)
 
@@ -11,3 +13,7 @@
 [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
 [Desenvolvedores](#desenvolvedores)
+
+<h2 align="left">Sobre o projeto</h2>
+
+
