@@ -2,9 +2,9 @@
 
 ### Tópicos 
 
-#[Sobre](#sobre)
+[-Sobre](#sobre)
 
-[Diagrama de Classes](#diagrama-de-classes)
+-[Diagrama de Classes](#diagrama-de-classes)
 
 [Funcionalidades](#funcionalidades)
 
