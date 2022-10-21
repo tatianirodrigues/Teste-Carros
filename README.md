@@ -2,16 +2,16 @@
 
 ### Tópicos 
 
-- [Descrição do projeto](#descrição-do-projeto)
+[Descrição do projeto](#descrição-do-projeto)
 
-- [Funcionalidades](#funcionalidades)
+[Funcionalidades](#funcionalidades)
 
-- [Aplicação](#aplicação)
+[Aplicação](#aplicação)
 
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
+[Ferramentas utilizadas](#ferramentas-utilizadas)
 
-- [Acesso ao projeto](#acesso-ao-projeto)
+[Acesso ao projeto](#acesso-ao-projeto)
 
-- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+[Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
-- [Desenvolvedores](#desenvolvedores)
+[Desenvolvedores](#desenvolvedores)
