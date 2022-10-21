@@ -79,7 +79,7 @@ Para abrir e rodar este projeto no seu desktop basta seguir os alguns passos sim
   `npm run start`
  
  
- Agora o AlôCar deve estar rodando e pode ser acessado pelo navegador com a url [http://localhost:4020/](http://localhost:4020/)
+ Agora o AlôCar deve estar rodando e pode ser acessado pelo navegador com a url [http://localhost:4200/](http://localhost:4200/)
 
 ---
 ## 👩‍💻 Desenvolvedores <a	name="desenvolvedores"></a>
