@@ -32,23 +32,17 @@
  
  ![alocarLog](https://user-images.githubusercontent.com/102046212/197243517-61c42dcb-582e-4e16-9528-e9fb5a40b4c2.gif)
 
- <p align="justify"> Dentro do programa, será gerênciar a sua frota de veículos. Tendo uma visão geral de todos os seus carros cadastrados, podendo editar os veículos e adicionar novos. Além disso terá acesso ao resultado financeiro que cada um está gerando, através do gerenciamento de receitas e despesas referentes a cada veiculo.</p>
+ <p align="justify"> Dentro do programa, será possivel gerenciar a sua frota de veículos. Tendo uma visão geral de todos os seus carros cadastrados, podendo editar os veículos e adicionar novos. Além disso, terá acesso ao resultado financeiro de cada, através do gerenciamento de receitas e despesas referentes a cada veiculo.</p>
 
 ![carrosalocar](https://user-images.githubusercontent.com/102046212/197245309-5278cb14-982d-4839-8a30-ebc3bc64183a.gif)
+
+ <p align="justify"> A plataforma também permite o cadatro e listagem de seus clientes, e partir deles realizar reservas de veículos</p>
  
-- o cadastro de seus clientes, bem como as reservas, contratos e seus respectivos pagamentos.
-
-Além da manutenção desses dados e controle das movimentações das operações de seu pequeno negócio, nosso sistema disponibiliza ainda, em sua tela inicial,
-uma dashboard com uma visão geral das operações da locadora, como:
-
-- quantidade de veículos locados, 
-- total gasto com manutenção da frota em determinado periodo,
-- informação sobre eventuais atrasos nos pagamentos dos clientes,
-- bem como uma projeção de faturamento a realizar nos proximos dias, baseado nos contratos vigentes.
-
 ![capAlo](https://user-images.githubusercontent.com/102046212/197202387-10463293-c1ca-4da8-8f3c-070cb847b5da.gif)
-
-
+ 
+ <p align="justify">Depois de reservado, no momento que o carro for retirado da locadora, será efeituada no sistema a locação. Para motoristas de aplicativo que locam o carro por um longo período a parcela do aluguel do veículo será semanal, o pagamento da parcela poderá ser monitorado pelo sistema</p>
+ 
+![locacao](https://user-images.githubusercontent.com/102046212/197247637-f7b75cdc-8c95-4709-9421-0defec4e050e.gif)
 
 ---
 ## 🛠️ Ferramentas e tecnologias utilizadas
