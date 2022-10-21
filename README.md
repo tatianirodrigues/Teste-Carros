@@ -1,5 +1,4 @@
 <h1 align="left"> O alôCar, bip, bip</h1> 
-Seu sistema de gerência de carros
 
 ### Tópicos 
 
@@ -17,6 +16,8 @@ Seu sistema de gerência de carros
 
 ---
 
-<h2 align="left">Sobre</h2>
+## Sobre
+O projeto "AlôCar - Sistema de gerenciamento de aluguel de veículos" foi realizado como conclusão do curso Entra21. Consiste em um sistema de gerenciamento de locação de veículos. Esse modelo foi criado com o  propósito de auxiliar as pequenas locadoras, que normalmente atendem a motoristas de aplicativo, a administrarem de maneira prática e organizada a sua frota, reservas e locações.
 
+## Diagrama de classes
 
