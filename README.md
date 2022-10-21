@@ -28,7 +28,24 @@
 ---
 ## 💻 Funcionalidades
 
+ <p align="justify"> As locadoras cadatrasdas poderão acessar a ferramenta, logando em nosso portal com seu usuário e senha.</p>
+ ![alocarLog](https://user-images.githubusercontent.com/102046212/197243517-61c42dcb-582e-4e16-9528-e9fb5a40b4c2.gif)
+
+ <p align="justify"> Dentro do programa, será gerênciar a sua frota de veículos. Tendo uma visão geral de todos os seus carros cadastrados, podendo editar os veículos e adicionar novos. Além disso terá acesso ao resultado financeiro que cada um está gerando, através do gerenciamento de receitas e despesas referentes a cada veiculo.
+	![carrosalocar](https://user-images.githubusercontent.com/102046212/197245309-5278cb14-982d-4839-8a30-ebc3bc64183a.gif)
+ 
+- o cadastro de seus clientes, bem como as reservas, contratos e seus respectivos pagamentos.
+
+Além da manutenção desses dados e controle das movimentações das operações de seu pequeno negócio, nosso sistema disponibiliza ainda, em sua tela inicial,
+uma dashboard com uma visão geral das operações da locadora, como:
+
+- quantidade de veículos locados, 
+- total gasto com manutenção da frota em determinado periodo,
+- informação sobre eventuais atrasos nos pagamentos dos clientes,
+- bem como uma projeção de faturamento a realizar nos proximos dias, baseado nos contratos vigentes.
+
 ![capAlo](https://user-images.githubusercontent.com/102046212/197202387-10463293-c1ca-4da8-8f3c-070cb847b5da.gif)
+
 
 
 ---
@@ -70,6 +87,7 @@ Para abrir e rodar este projeto no seu desktop basta seguir os alguns passos sim
 
 ---
 ## 👩‍💻 Desenvolvedores
+
 
 
 | [<img src="https://avatars.githubusercontent.com/u/101154857?v=4" width=115><br><sub>Mateus Bruscato</sub>](https://github.com/MateusBruscato) |  [<img src="https://avatars.githubusercontent.com/u/104950879?v=4" width=115><br><sub>Pablo Pamplona</sub>](https://github.com/pablompamplona) |  [<img src="https://avatars.githubusercontent.com/u/102046212?s=400&u=f4ec72ee978d3338925dbb971c7038eef33de5d8&v=4" width=115><br><sub>Tatiani Rodrigues</sub>](https://github.com/tatianirodrigues) |  [<img src="https://avatars.githubusercontent.com/u/98987267?v=4" width=115><br><sub>Victor Wolleck</sub>](https://github.com/VictorWolleck) |
