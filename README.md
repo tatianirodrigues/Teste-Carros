@@ -29,7 +29,7 @@
 
 ---
 ## Abrir e rodar o projeto
-Para abrir e rodar este projeto no seu desktop basta seguir os alguns passos simples. Mas antes é nessario que se tenha instalado o **Git** (https://git-scm.com/downloads), **Node.js** (https://nodejs.org/), **VSCode** (https://code.visualstudio.com/download), **MYSQL** (https://www.mysql.com/downloads/Building)e o **Eclipse** (https://www.eclipse.org/downloads/). 
+Para abrir e rodar este projeto no seu desktop basta seguir os alguns passos simples. Mas antes é nessario que se tenha instalado o **Git** (https://git-scm.com/downloads), **Node.js** (https://nodejs.org/), **VSCode** (https://code.visualstudio.com/download), **MYSQL** (https://www.mysql.com/downloads/Building) e o **Eclipse** (https://www.eclipse.org/downloads/). 
 
 Agora basta:
 
@@ -43,9 +43,10 @@ Agora basta:
 
  `npm install`
 
-4.Rodar no servidor local
+4. Rodar no servidor local
 
  `npm run start`
+ 
  
  Agora o AlôCar deve estar rodando e pode ser acessado pelo navegador com a url [http://localhost:4200/]([http://localhost:4200/)
 
