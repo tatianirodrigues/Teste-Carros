@@ -20,7 +20,7 @@
 
 
 ---
-## 📝 Diagrama de classes
+## 📝 Diagrama de classes <a	name="diagrama-de-classes"></a>
 
 <img width="844" alt="diagrama de classes" src="https://user-images.githubusercontent.com/102046212/197194108-7e0aa9d2-159a-4225-b503-614ef1f4057d.png">
 
