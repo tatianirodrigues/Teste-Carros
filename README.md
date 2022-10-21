@@ -40,6 +40,7 @@
 - IDE: Eclipse   <img align="center" alt="html" height="25" width="40" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg"> 
 - Banco de Dados: MySQL <img align=center alt=kaka-vscode height=25 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" />como banco de dados.
 
+
 **FrontEnd:**
 - linguagem de programação: TypeScript <img align="center" alt="kaka-ts" height=25 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"/> 
 - FrameWork: Angular <img align="center" alt="kaka-Angular" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" /> 
