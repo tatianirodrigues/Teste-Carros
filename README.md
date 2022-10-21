@@ -1,4 +1,4 @@
-<h1 align="left">O alôCar, bip, bip</h1> 
+<h1 align="center">O alôCar, bip, bip</h1> 
 
 ## 📚 Índice 
 
