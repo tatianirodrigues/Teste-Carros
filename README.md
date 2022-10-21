@@ -17,7 +17,7 @@
 ---
 ## Sobre 	
  <p align="justify">O projeto "AlôCar - Sistema de gerenciamento de aluguel de veículos" foi realizado como conclusão do curso Entra21. Consiste em um sistema de gerenciamento de locação de veículos. Esse modelo foi criado com o  propósito de auxiliar as pequenas locadoras, que normalmente atendem a motoristas de aplicativo, a administrarem de maneira prática e organizada a sua frota, reservas e locações. </p>
----
+
 
 
 ## Diagrama de classes
@@ -34,7 +34,7 @@
 
 ## Ferramentas e tecnologias utilizadas
 
----
+
 
 ## Abrir e rodar o projeto
 Para abrir e rodar este projeto no seu desktop basta seguir os alguns passos simples. Mas antes é nessario que se tenha instalado o [Git](https://git-scm.com/downloads), [Node.js](https://nodejs.org/), [VSCode](https://code.visualstudio.com/download), [MYSQL](https://www.mysql.com/downloads/Building) e o [Eclipse](https://www.eclipse.org/downloads/). 
