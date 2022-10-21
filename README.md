@@ -26,14 +26,16 @@
 
 ![capAlo](https://user-images.githubusercontent.com/102046212/197202387-10463293-c1ca-4da8-8f3c-070cb847b5da.gif)
 ---
+
+
 ## Ferramentas e tecnologias utilizadas
 
 ---
+
 ## Abrir e rodar o projeto
 Para abrir e rodar este projeto no seu desktop basta seguir os alguns passos simples. Mas antes é nessario que se tenha instalado o [Git](https://git-scm.com/downloads), [Node.js](https://nodejs.org/), [VSCode](https://code.visualstudio.com/download), [MYSQL](https://www.mysql.com/downloads/Building) e o [Eclipse](https://www.eclipse.org/downloads/). 
 
 **Agora basta:**
-
 1. Clonar este repositorio.
 
  `git clone https://github.com/ProjetoEntra021/ProjetoFinal.git`
